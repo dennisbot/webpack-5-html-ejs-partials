@@ -10,8 +10,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "ejs": "^3.1.10",
-    "ejs-loader": "^0.5.0",
     "html-beautify-webpack-plugin": "^1.0.5",
     "html-loader": "^5.1.0",
     "html-webpack-plugin": "^5.6.0",
